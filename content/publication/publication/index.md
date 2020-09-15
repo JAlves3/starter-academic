@@ -1,6 +1,7 @@
 ---
 title: "Code-switching in parents’ everyday speech to bilingual infants"
-authors: "LV Kremin, AJ Orena, L Polka, K Byers-Heinlein"
+authors: 
+- LV Kremin, AJ Orena, L Polka, K Byers-Heinlein
 author_notes: ""
 date: "In review"
 doi: ""
