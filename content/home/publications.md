@@ -10,13 +10,12 @@ weight = 90  # Order that this section will appear.
 title = "Recent Publications"
 subtitle = ""
 
-Code-switching in parents’ everyday speech to bilingual infants
-
+[content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -29,7 +28,7 @@ Code-switching in parents’ everyday speech to bilingual infants
     tag = ""
     category = ""
     publication_type = ""
-    author = "LV Kremin, J Alves, AJ Orena, L Polka, K Byers-Heinlein"
+    author = ""
     exclude_featured = false
   
 [design]
