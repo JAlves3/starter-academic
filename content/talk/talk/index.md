@@ -36,13 +36,13 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#icon_pack: fab
+#name: Follow
+#url: 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://osf.io/nfuhj/"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -61,7 +61,7 @@ projects:
 - internal-project
 
 # Enable math on this page?
-math: true
+math: false
 ---
 
 {{% alert note %}}
