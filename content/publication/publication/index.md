@@ -3,11 +3,11 @@ title: "Code-switching in parents’ everyday speech to bilingual infants"
 authors: 
 - LV Kremin, J Alves, AJ Orena, L Polka, K Byers-Heinlein
 author_notes: ""
-date: "In review"
+date: "Under review"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "Under review"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -59,7 +59,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% alert note %}}
@@ -70,4 +70,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and #math]#(https://sourcethemes.com/academic/docs/writing-markdown-latex/).
