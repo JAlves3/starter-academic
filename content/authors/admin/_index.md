@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Concordia Infant Research Lab
+- name: Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
