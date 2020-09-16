@@ -1,6 +1,6 @@
 ---
-title: Location of the switch: Investigating infant-directed code-switching in the speech of bilingual parents
-event: PsychoShorts Conference (Ottawa, ON)
+title: Montreal parents’ code-switching patterns when speaking to bilingual infants
+event: Annual Centre for Research on Human Development Conference
 event_url: 
 
 #location: 
@@ -12,19 +12,14 @@ event_url:
   country: 
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: 
-Background. Code-switching (e.g. Let’s put on your manteau. It’s cold dehors.) is
-common in the speech of bilingual adults, including in parent-child interactions (Byers-Heinlein,
-2013). This may present unique challenges for the child’s language development. Bilingual
-children experience processing difficulties when they encounter code-switching (Byers-Heinlein,
-Morin-Lessard, &amp; Lew-Williams, 2017; Potter, Fourakis, Morin-Lessard, Byers-Heinlein, &amp;
-Lew-Williams, 2019), and high rates of code-switching may also slow their vocabulary
-development (e.g. Byers-Heinlein 2013).
+abstract: Code-switching (e.g., “Are you hungry? Est-ce que tu veux une apple?”) is common in bilingual environments and may affect language acquisition, yet little is known about parental code-switching patterns. This is the first study to examine parents’ natural code-switching behaviors. Our findings show that parents do not frequently code-switch when speaking to their infant, and that properties of their code-switching (e.g., syntactic location and apparent reason) shift over the infant’s development.
+
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-03-06T13:00:00Z"
-#date_end: "2020--01T15:00:00Z"
+date: "2020-01-24T13:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -47,7 +42,7 @@ links:
 #url: 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://osf.io/nfuhj/"
 url_video: ""
 
 # Markdown Slides (optional).
