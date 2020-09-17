@@ -1,6 +1,6 @@
 ---
-title: Montreal parents’ code-switching patterns when speaking to bilingual infants
-event: Annual Centre for Research on Human Development Conference
+title: Location of the switch: Investigating infant-directed code-switching in the speech of bilingual parents
+event: PsychoShorts Conference (Ottawa, ON)
 event_url: 
 
 #location: 
@@ -18,7 +18,7 @@ abstract: Code-switching (e.g., “Are you hungry? Est-ce que tu veux une apple?
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-01-24T13:00:00Z"
+date: "2020-03-06T13:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: true
 
@@ -42,7 +42,7 @@ links:
 #url: 
 url_code: ""
 url_pdf: ""
-url_slides: "https://osf.io/nfuhj/"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
