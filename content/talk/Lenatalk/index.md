@@ -1,5 +1,5 @@
 ---
-title: Location of the switch: Investigating infant-directed code-switching in the speech of bilingual parents
+title: Location of the switch: Investigating infant-directed code-switching
 event: PsychoShorts Conference (Ottawa, ON)
 event_url: 
 
