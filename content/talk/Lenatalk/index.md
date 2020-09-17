@@ -12,8 +12,7 @@ event_url:
   country: 
 
 #summary: An example talk using Academic's Markdown slides feature.
-abstract: 
-Background. Code-switching (e.g. Let’s put on your manteau. It’s cold dehors.) is
+abstract: Background. Code-switching (e.g. Let’s put on your manteau. It’s cold dehors.) is
 common in the speech of bilingual adults, including in parent-child interactions (Byers-Heinlein,
 2013). This may present unique challenges for the child’s language development. Bilingual
 children experience processing difficulties when they encounter code-switching (Byers-Heinlein,
