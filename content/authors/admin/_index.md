@@ -65,9 +65,9 @@ user_groups:
 - Visitors
 ---
 
-I am a research assistant at Concordia Infant Research Lab. I recently graduated in May 2020 with my Bachelors of Arts degree in Honours Psychology at Concordia University in Montreal, Quebec.
+I am a research assistant at Concordia Infant Research Lab. In May 2020, I graduated with my Bachelors of Arts degree in Honours Psychology at Concordia University in Montreal, Quebec.
 
-My main research interest is language acquisition in bilingual children. I am currently involved in projects looking at code-switching in parents' speech and ....
+My main research interest is language acquisition in bilingual children. I am currently involved in projects looking at code-switching in parents' speech and bilingual adults' perception of similarity between French and English words (e.g., banana and banane). 
 
 I have also been working as a Junior Behaviour Interventionist at the Miriam Foundation since June 2019, where we provide one on one individualized services based on the principles of Applied Behaviour Analysis (ABA) to  young children with autism spectrum disorders and developmental disabilities.
 
